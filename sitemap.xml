@@ -7,7 +7,12 @@
   </url>
   
   <url>
-    <loc>https://project-gutenberg.github.io/Pincong/tags/</loc>
+    <loc>https://project-gutenberg.github.io/Pincong/author/</loc>
+    <lastmod>2019-12-22T09:44:40+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://project-gutenberg.github.io/Pincong/author/%E5%8A%B3%E4%BC%A6%E6%96%AF/</loc>
     <lastmod>2019-12-22T09:44:40+00:00</lastmod>
   </url>
   
@@ -23,6 +28,11 @@
   
   <url>
     <loc>https://project-gutenberg.github.io/Pincong/</loc>
+    <lastmod>2019-12-22T09:44:40+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://project-gutenberg.github.io/Pincong/tags/</loc>
     <lastmod>2019-12-22T09:44:40+00:00</lastmod>
   </url>
   
@@ -44,6 +54,11 @@
   <url>
     <loc>https://project-gutenberg.github.io/Pincong/search/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://project-gutenberg.github.io/Pincong/author/les_miz/</loc>
+    <lastmod>2019-12-22T09:43:38+00:00</lastmod>
   </url>
   
   <url>
