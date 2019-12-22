@@ -2,6 +2,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://project-gutenberg.github.io/Pincong/post/</loc>
+    <lastmod>2019-12-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://project-gutenberg.github.io/Pincong/tags/</loc>
+    <lastmod>2019-12-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://project-gutenberg.github.io/Pincong/post/11253/</loc>
+    <lastmod>2019-12-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://project-gutenberg.github.io/Pincong/</loc>
+    <lastmod>2019-12-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://project-gutenberg.github.io/Pincong/tags/%E7%BF%BB%E8%BD%A6%E6%96%B0%E9%97%BB/</loc>
+    <lastmod>2019-12-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://project-gutenberg.github.io/Pincong/contact/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
   </url>
@@ -13,14 +38,6 @@
   
   <url>
     <loc>https://project-gutenberg.github.io/Pincong/archives/</loc>
-  </url>
-  
-  <url>
-    <loc>https://project-gutenberg.github.io/Pincong/tags/</loc>
-  </url>
-  
-  <url>
-    <loc>https://project-gutenberg.github.io/Pincong/</loc>
   </url>
   
 </urlset>
