@@ -35,17 +35,6 @@
     
     
     <item>
-      <title>工藤新一</title>
-      <link>https://project-gutenberg.github.io/Pincong/author/%E5%B7%A5%E8%97%A4%E6%96%B0%E4%B8%80/</link>
-      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://project-gutenberg.github.io/Pincong/author/%E5%B7%A5%E8%97%A4%E6%96%B0%E4%B8%80/</guid>
-      <description></description>
-    </item>
-    
-    
-    
-    <item>
       <title>Morty君</title>
       <link>https://project-gutenberg.github.io/Pincong/author/morty%E5%90%9B/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
@@ -57,9 +46,20 @@
     
     
     <item>
+      <title>工藤新一</title>
+      <link>https://project-gutenberg.github.io/Pincong/author/%E5%B7%A5%E8%97%A4%E6%96%B0%E4%B8%80/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://project-gutenberg.github.io/Pincong/author/%E5%B7%A5%E8%97%A4%E6%96%B0%E4%B8%80/</guid>
+      <description></description>
+    </item>
+    
+    
+    
+    <item>
       <title>Amenbreak</title>
       <link>https://project-gutenberg.github.io/Pincong/author/amenbreak/</link>
-      <pubDate>Tue, 31 Dec 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 29 Dec 2019 00:00:00 +0000</pubDate>
       
       <guid>https://project-gutenberg.github.io/Pincong/author/amenbreak/</guid>
       <description></description>
