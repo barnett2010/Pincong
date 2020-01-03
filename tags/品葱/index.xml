@@ -6,9 +6,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>Copyright © 品葱精选</copyright>
-    <lastBuildDate>Sun, 15 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://project-gutenberg.github.io/Pincong/tags/%E5%93%81%E8%91%B1/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+    <item>
+      <title>【安全上网】GPG入门教程</title>
+      <link>https://project-gutenberg.github.io/Pincong/post/ccf18592b981cef27cbbb8afa8755110/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://project-gutenberg.github.io/Pincong/post/ccf18592b981cef27cbbb8afa8755110/</guid>
+      <description>本篇是上篇「如何验证身份」的后续。上篇文章有不少留言提到，验证身份可以用GPG，GPG比起一次性的SHA-512哈希串要强大的多。只要你发布了自己的公钥，就可以无限次的验证身份。而且，GPG是非常强大的密码学软件，除了用来验证身份，它还可以加密自己的文件，或者在不安全的环境中发送加密消息。现在GPG软件已经有Windows下的图形界面，就算你不熟悉命令行，图形界面也很容易操作，如果你会用微信，就能学会GPG。我希望本文不止是一篇验证身份 …</description>
+    </item>
     
     
     
