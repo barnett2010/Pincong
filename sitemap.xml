@@ -3,7 +3,7 @@
   
   <url>
     <loc>https://project-gutenberg.github.io/Pincong/post/</loc>
-    <lastmod>2020-01-27T05:36:43+00:00</lastmod>
+    <lastmod>2020-01-27T05:36:55+00:00</lastmod>
   </url>
   
   <url>
@@ -13,12 +13,12 @@
   
   <url>
     <loc>https://project-gutenberg.github.io/Pincong/author/</loc>
-    <lastmod>2020-01-27T05:36:43+00:00</lastmod>
+    <lastmod>2020-01-27T05:36:55+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://project-gutenberg.github.io/Pincong/</loc>
-    <lastmod>2020-01-27T05:36:43+00:00</lastmod>
+    <lastmod>2020-01-27T05:36:55+00:00</lastmod>
   </url>
   
   <url>
@@ -28,7 +28,7 @@
   
   <url>
     <loc>https://project-gutenberg.github.io/Pincong/tags/</loc>
-    <lastmod>2020-01-27T05:36:43+00:00</lastmod>
+    <lastmod>2020-01-27T05:36:55+00:00</lastmod>
   </url>
   
   <url>
@@ -39,6 +39,11 @@
   <url>
     <loc>https://project-gutenberg.github.io/Pincong/author/tashkent/</loc>
     <lastmod>2020-01-27T05:36:43+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://project-gutenberg.github.io/Pincong/author/%E4%B8%8D%E6%98%AF%E4%B8%AD%E5%9B%BD%E7%BD%91%E8%AD%A6/</loc>
+    <lastmod>2020-01-27T05:36:55+00:00</lastmod>
   </url>
   
   <url>
@@ -62,8 +67,18 @@
   </url>
   
   <url>
+    <loc>https://project-gutenberg.github.io/Pincong/post/d04e524c8ec3acb7e0b0c629f4a46efd/</loc>
+    <lastmod>2020-01-27T05:36:55+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://project-gutenberg.github.io/Pincong/tags/%E6%AD%A6%E6%B1%89%E8%82%BA%E7%82%8E/</loc>
     <lastmod>2020-01-27T05:36:24+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://project-gutenberg.github.io/Pincong/tags/%E6%AD%A6%E6%B1%89%E8%82%BA%E7%82%8E-%E6%AD%A6%E6%B1%89/</loc>
+    <lastmod>2020-01-27T05:36:55+00:00</lastmod>
   </url>
   
   <url>
@@ -212,6 +227,11 @@
   </url>
   
   <url>
+    <loc>https://project-gutenberg.github.io/Pincong/author/badshit/</loc>
+    <lastmod>2020-01-27T05:36:49+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://project-gutenberg.github.io/Pincong/author/trtrtr2/</loc>
     <lastmod>2020-01-27T05:35:37+00:00</lastmod>
   </url>
@@ -219,6 +239,11 @@
   <url>
     <loc>https://project-gutenberg.github.io/Pincong/post/23f173e270a511e4e72178be9fffbfcf/</loc>
     <lastmod>2020-01-27T05:35:37+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://project-gutenberg.github.io/Pincong/post/1bdf94ddf037c5bfb944009a79831877/</loc>
+    <lastmod>2020-01-27T05:36:49+00:00</lastmod>
   </url>
   
   <url>
@@ -1319,11 +1344,6 @@
   <url>
     <loc>https://project-gutenberg.github.io/Pincong/post/6e2b75c867f036fa6070c2365a254c1d/</loc>
     <lastmod>2019-12-23T11:59:36+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://project-gutenberg.github.io/Pincong/author/badshit/</loc>
-    <lastmod>2019-12-22T15:18:55+00:00</lastmod>
   </url>
   
   <url>
