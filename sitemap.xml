@@ -4047,6 +4047,11 @@
   </url>
   
   <url>
+    <loc>https://project-gutenberg.github.io/Pincong/post/test/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://project-gutenberg.github.io/Pincong/archives/</loc>
   </url>
   
