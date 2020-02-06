@@ -8,7 +8,7 @@
   
   <url>
     <loc>https://project-gutenberg.github.io/Pincong/post/</loc>
-    <lastmod>2020-02-05T11:47:24+00:00</lastmod>
+    <lastmod>2020-02-06T17:41:50+00:00</lastmod>
   </url>
   
   <url>
@@ -18,17 +18,17 @@
   
   <url>
     <loc>https://project-gutenberg.github.io/Pincong/author/</loc>
-    <lastmod>2020-02-05T11:47:24+00:00</lastmod>
+    <lastmod>2020-02-06T17:41:50+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://project-gutenberg.github.io/Pincong/</loc>
-    <lastmod>2020-02-05T11:47:24+00:00</lastmod>
+    <lastmod>2020-02-06T17:41:50+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://project-gutenberg.github.io/Pincong/tags/</loc>
-    <lastmod>2020-02-05T11:47:24+00:00</lastmod>
+    <lastmod>2020-02-06T17:41:50+00:00</lastmod>
   </url>
   
   <url>
@@ -39,6 +39,36 @@
   <url>
     <loc>https://project-gutenberg.github.io/Pincong/tags/%E7%BF%BB%E8%BD%A6%E6%96%B0%E9%97%BB%E6%90%AC%E8%BF%90/</loc>
     <lastmod>2020-02-05T11:16:10+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://project-gutenberg.github.io/Pincong/author/%E5%9C%A8%E4%B9%A0%E4%BA%A1%E7%9A%84%E7%94%B0%E9%87%8E%E4%B8%8A/</loc>
+    <lastmod>2020-02-06T17:41:50+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://project-gutenberg.github.io/Pincong/tags/%E5%B0%8F%E7%B2%89%E7%BA%A2/</loc>
+    <lastmod>2020-02-06T17:41:50+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://project-gutenberg.github.io/Pincong/post/9f44073db4b2ab61570106809ba2cb35/</loc>
+    <lastmod>2020-02-06T17:41:50+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://project-gutenberg.github.io/Pincong/tags/%E5%BE%AE%E5%8D%9A/</loc>
+    <lastmod>2020-02-06T17:41:50+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://project-gutenberg.github.io/Pincong/tags/%E7%B2%89%E7%BA%A2/</loc>
+    <lastmod>2020-02-06T17:41:50+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://project-gutenberg.github.io/Pincong/tags/%E7%B2%89%E8%9B%86/</loc>
+    <lastmod>2020-02-06T17:41:50+00:00</lastmod>
   </url>
   
   <url>
@@ -257,11 +287,6 @@
   </url>
   
   <url>
-    <loc>https://project-gutenberg.github.io/Pincong/author/%E5%9C%A8%E4%B9%A0%E4%BA%A1%E7%9A%84%E7%94%B0%E9%87%8E%E4%B8%8A/</loc>
-    <lastmod>2020-02-05T11:20:54+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://project-gutenberg.github.io/Pincong/post/b1d561d6a2a2d92fa74da057b8c6b9c4/</loc>
     <lastmod>2020-02-05T11:20:54+00:00</lastmod>
   </url>
@@ -367,22 +392,7 @@
   </url>
   
   <url>
-    <loc>https://project-gutenberg.github.io/Pincong/tags/%E5%B0%8F%E7%B2%89%E7%BA%A2/</loc>
-    <lastmod>2020-02-02T19:26:18+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://project-gutenberg.github.io/Pincong/tags/%E5%BE%AE%E5%8D%9A/</loc>
-    <lastmod>2020-01-29T13:58:24+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://project-gutenberg.github.io/Pincong/tags/%E7%8E%BB%E7%92%83%E5%BF%83/</loc>
-    <lastmod>2020-02-02T19:26:18+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://project-gutenberg.github.io/Pincong/tags/%E7%B2%89%E7%BA%A2/</loc>
     <lastmod>2020-02-02T19:26:18+00:00</lastmod>
   </url>
   
@@ -534,11 +544,6 @@
   <url>
     <loc>https://project-gutenberg.github.io/Pincong/tags/%E7%AE%A1%E7%90%86%E5%A3%B0%E6%98%8E/</loc>
     <lastmod>2020-01-29T14:01:24+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://project-gutenberg.github.io/Pincong/tags/%E7%B2%89%E8%9B%86/</loc>
-    <lastmod>2020-01-27T16:51:24+00:00</lastmod>
   </url>
   
   <url>
