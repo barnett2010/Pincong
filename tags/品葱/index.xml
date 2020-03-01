@@ -6,9 +6,22 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>Copyright © 品葱精选</copyright>
-    <lastBuildDate>Mon, 17 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Feb 2020 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://project-gutenberg.github.io/Pincong/tags/%E5%93%81%E8%91%B1/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+    <item>
+      <title>免翻墙上品葱教程(DoH&#43;ESNI直连)</title>
+      <link>https://project-gutenberg.github.io/Pincong/post/8d0dca6a9d25b01c4146a9a615fb6cb7/</link>
+      <pubDate>Wed, 26 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://project-gutenberg.github.io/Pincong/post/8d0dca6a9d25b01c4146a9a615fb6cb7/</guid>
+      <description>安全提示：本文介绍的方法只作为临时手段。如果打算长期活动，一定要挂代理。如果要从事高风险活动，请使用VPN+Tor。
+截至2020年初，防火墙封杀网站的手段有：
+ 关键词过滤：随着https的普及，这种方法已经不常见。 封锁IP：主要用来屏蔽Google，Facebook等IP地址固定的大型网站。 DNS污染+SNI探测：IPv4地址资源有限，对绝大多数网站，防火墙只能用DNS污染封锁。改Host可以绕过封锁，也可以用本文 …</description>
+    </item>
     
     
     
@@ -121,6 +134,20 @@ $$$又到广告时间，“新人报到贴”，方便携带，容易入口，�
 品葱用户 疯狂习近平 评论于 2020-01-23 这个说的过分了，我敢说这个品葱90%的人，不反华，更不恨国，甚至还有一大堆人都很支持习近平继续执政。比如我，我十分支持习近平可以继续连任下去。
 品葱用户 蒹葭苍苍 评论于 2020-01-23 我想引用一句腊主席的话：
   我认为，对我们来说，一个人，一个党，一个军队，或者一个学 …</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>各位葱友有哪些特殊的爱好？</title>
+      <link>https://project-gutenberg.github.io/Pincong/post/e0eb9a338b6e251a1645c3b11a3e50ec/</link>
+      <pubDate>Sun, 19 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://project-gutenberg.github.io/Pincong/post/e0eb9a338b6e251a1645c3b11a3e50ec/</guid>
+      <description>品葱用户 吓创之护 提问于 1/19/2020 我特别爱收集各种冰箱贴，家里的冰箱都贴爆了
+品葱用户 陈士杰 评论于 2020-01-19 去外地的时候，我都会查询当地有哪些名人的坟墓。其中令我尊敬的人的坟墓，我会去坟上献花致意。
+有一次，我还在墓园里偶遇了死者的亲属。死者亲属很惊讶于我的出现，于是就请我到附近的咖啡店喝了一杯，聊了半天，算是交了个朋友。
+品葱用户 Juria 评论于 2020-01-18 咬指甲- -（好羞耻我匿 …</description>
     </item>
     
     

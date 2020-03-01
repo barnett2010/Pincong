@@ -6,9 +6,22 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>Copyright © 品葱精选</copyright>
-    <lastBuildDate>Wed, 11 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Feb 2020 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://project-gutenberg.github.io/Pincong/tags/%E7%BF%BB%E5%A2%99/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+    <item>
+      <title>免翻墙上品葱教程(DoH&#43;ESNI直连)</title>
+      <link>https://project-gutenberg.github.io/Pincong/post/8d0dca6a9d25b01c4146a9a615fb6cb7/</link>
+      <pubDate>Wed, 26 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://project-gutenberg.github.io/Pincong/post/8d0dca6a9d25b01c4146a9a615fb6cb7/</guid>
+      <description>安全提示：本文介绍的方法只作为临时手段。如果打算长期活动，一定要挂代理。如果要从事高风险活动，请使用VPN+Tor。
+截至2020年初，防火墙封杀网站的手段有：
+ 关键词过滤：随着https的普及，这种方法已经不常见。 封锁IP：主要用来屏蔽Google，Facebook等IP地址固定的大型网站。 DNS污染+SNI探测：IPv4地址资源有限，对绝大多数网站，防火墙只能用DNS污染封锁。改Host可以绕过封锁，也可以用本文 …</description>
+    </item>
     
     
     
