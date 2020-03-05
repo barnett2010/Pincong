@@ -122,5 +122,17 @@ https://pincong.rocks/question/1297 明确什么样的行为属“传教”行�
     </item>
     
     
+    
+    <item>
+      <title>科普好文，中国网络防火长城的工作原理。(转）</title>
+      <link>https://project-gutenberg.github.io/Pincong/post/c065b9c3aed29a5f446b9a7eb841d868/</link>
+      <pubDate>Mon, 09 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://project-gutenberg.github.io/Pincong/post/c065b9c3aed29a5f446b9a7eb841d868/</guid>
+      <description>品葱用户 羊城暗夜 提问于 9/9/2019 GFW是Great Fire Wall的缩写，即“长城防火墙”。这个工程由若干个部分组成，实现不同功能。长城防火墙主要指TG监控和过滤互联网内容的软硬件系统，由服务器和路由器等设备，加上相关的应用程序所构成。
+首先，需要强调的是，由于中国网络审查广泛，中国国内含有“不合适”内容的的网站，会受到政府直接的行政干预，被要求自我审查、自我监管，乃至关闭，所以GFW的主要作用在于分析和过滤中国境内外 …</description>
+    </item>
+    
+    
   </channel>
 </rss>
