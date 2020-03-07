@@ -6,9 +6,39 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>Copyright © 品葱精选</copyright>
-    <lastBuildDate>Sat, 07 Mar 2020 16:53:43 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Mar 2020 16:54:22 +0000</lastBuildDate>
     
         <atom:link href="https://project-gutenberg.github.io/Pincong/tags/%E4%BA%8C%E7%BB%B4%E7%A0%81/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+    <item>
+      <title>语言密码</title>
+      <link>https://project-gutenberg.github.io/Pincong/post/39502cabe45bfb7642515b3ea9113972/</link>
+      <pubDate>Sat, 07 Mar 2020 16:54:22 +0000</pubDate>
+      
+      <guid>https://project-gutenberg.github.io/Pincong/post/39502cabe45bfb7642515b3ea9113972/</guid>
+      <description>本科上数论课，讲到密码学，具体数学细节都忘了，只记得老师讲过一个核心机制，就是找到一种正过程与逆过程完全不对等的运算。例如我们最早学习的加法与减法，在运算性质上几乎是同质的，而幂与开方，难度就不那么对称了。
+当然，这样的难度差距来建立高级密码，还是太简陋了点，这时候便需要用到数论里的整数分解，模运算等等。
+有些加密具有这样的特征：即使公开明文与运算规则，直接逆向运算也难度艰巨到几乎不可能实现。密文的破译需要借助密钥，密钥可以让逆运算成为 …</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>出轨</title>
+      <link>https://project-gutenberg.github.io/Pincong/post/50169653d7e72788c819b80a47fdd5e3/</link>
+      <pubDate>Sat, 07 Mar 2020 16:53:55 +0000</pubDate>
+      
+      <guid>https://project-gutenberg.github.io/Pincong/post/50169653d7e72788c819b80a47fdd5e3/</guid>
+      <description>**
+“你这人是有什么问题，居然不爱我”，闻之有偏执、变态、暴力倾向，“我这么好的人，居然得不到爱”，就还挺可爱的。自恋者也分伤害转嫁型与自我沉醉型。
+**
+两个都真诚的人会相互喜欢，两个都聪明的人不见得会。
+**
+我父母那一代听的中文情歌，“因为明天，我将成为别人的新娘，让我最后一次想你”。我们这一代，连场景都细节化了，“将头发梳成大人模样，穿上一身帅气西装，等会儿见你一定比想像美”。
+人类，前仆后继地，被“新娘嫁人了新郎不是我”的他 …</description>
+    </item>
     
     
     
