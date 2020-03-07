@@ -3,14 +3,14 @@
 <div class="container">
     <div class="row">
         <div class=" mx-auto px-0">
-            {{$slug := .Slug }}
+            {{$title := .Title | urlize }}
             <div class="bg-white shadow block">
                 {{ $related := .Site.RegularPages.Related . | first 5 }}
                 {{ with $related }}
                 {{ range . }}
                 <article class="mb-5">
                     <h2 class="h5"><a class="text-dark"
-                            href="{{ .RelPermalink }}?utm_source=see_also&utm_medium={{ $slug }}">{{ .Title | markdownify }}</a>
+                            href="{{ .Permalink }}?utm_source=see_also&utm_medium={{ $title }}">{{ .Title | markdownify }}</a>
                     </h2>
                     <p class="text-dark">{{.Summary | truncate 120 }}</p>
                 </article>
