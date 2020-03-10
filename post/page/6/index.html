@@ -31,7 +31,7 @@
   
   <meta name="og:title" content=" Posts ">
   <meta name="og:description" content=" 結局會怎樣我們不知道，但就肩並肩，說出你真實所見、所思、所想，對得起自己，一起見證歷史吧。">
-  <meta name="og:image" content="https://project-gutenberg.github.io/Pincong//images/card/28.jpg">
+  <meta name="og:image" content="https://project-gutenberg.github.io/Pincong//images/card/40.jpg">
   
 
 </head><body><!-- navigation -->
@@ -367,6 +367,36 @@ IHCO可以着重在落后国家的疾病的预防控制，并由国际独立第�
           </article>
           
           <article class="mb-5">
+            <h2 class="h4"><a class="text-dark" href="https://project-gutenberg.github.io/Pincong/post/d1d8c3183540f3dcef194df2d7077e35/">学习哪些编程语言才能开发VPN的app？</a></h2>
+            <div class="mb-3"><span>by <a href="../../../Pincong/author/macgoy">Macgoy</a></span>,
+              <span>at 09 March 2020</span>, category :
+              
+            </div>
+            <p>品葱用户 Macgoy 提问于 3/9/2020 我想开发一个VPNapp，该从哪些编程语言入手？
+品葱用户 projectpolaris 评论于 2020-03-09 我是某开源代理软件的开发者组成员，我说一点实际的吧，上面的评论基本上泛泛而谈
+1.首先你需要一个开源的事件驱动的多线程网络库，这是高并发的关键，一般使用C/C++/go，现在可选的主要有libuv(最快)，libev, libevent, ACE, Boost.asio，当然golang在语言层级就已经支持异步操作。
+2. 加密库，这个其实就两种，openssl,libsodium,golang标准库自带
+3. 序列化库，用于配置解析，例如protobuf，cjson,fastjson等
+4.一些基础infra和算法：你应该熟悉分页内存池，动态数组，哈希表，红黑树，b+树，双端缓冲队列，因为有时候开源库里面或者语言自带这些容器和结构，但你得知道怎么用。路由算法方面（实现PAC机制）你应该会哈希表和trie树以及b+树，用来快速路由数据包里面的目的ip
+5.协议，不建议自建协议，但是你需要自己实现现有的协议，因为现有代理软件的开发者据我所知没有把自己协议封装成库的
+以上针对服务端，以下针对客户端：
+1. 首先确立一个观点，客户端只是一个用户交互的界面，所以正确做法是把服务端跨编嵌入你的客户端，作为一个独立进程建立一个本地server，客户端只用管理配置和启停。或者你可以直接把v2ray或shadowsocks-libev编译到你的平台作为core。
+2. 界面开发，如果你不想一个平台一套代码，可以使用xamarin，如果你想原生，那就原生（建议）
+3. 分应用代理实现：
+android 似乎系统提供了API（我不开发安卓，此条不可信）
+IOS, Darwin 没可能
+Linux 直接hook系统socket函数，或者写一个内核驱动去filter pid
+Windows 最麻烦，win hook现在很容易崩溃，你需要写WFP或者NDIS驱动，并自己买张EV证书签名
+最后, 不要觉得自己可以把上面全部掌握完，多多使用开源库。
+具体细节，可以在回复里问题
+品葱用户 ilovejp 评论于 2020-03-09 想搞正规一点的话，从Java入手
+想搞快一点，做个玩具，从Python入手
+想从原子级别开始做一套完全自主的工具，从C++入手
+（以上皆针对PC端而言）</p>
+            <a href="https://project-gutenberg.github.io/Pincong/post/d1d8c3183540f3dcef194df2d7077e35/" class="btn btn-sm btn-outline-primary">read more</a>
+          </article>
+          
+          <article class="mb-5">
             <h2 class="h4"><a class="text-dark" href="https://project-gutenberg.github.io/Pincong/post/632f8ac1d39e60c70ca148da61d73dc0/">新加坡采购F35B已经实锤了，未来对亚洲的军事格局有什么变化？</a></h2>
             <div class="mb-3"><span>by <a href="../../../Pincong/author/%e7%82%8e%e9%bb%84%e5%ad%90%e8%91%b1">炎黄子葱</a></span>,
               <span>at 09 March 2020</span>, category :
@@ -413,37 +443,6 @@ A股可就不一定了。
 品葱用户 biqimingzile 评论于 2020-03-09 A股基本上吃一段行情就行，不要想着持有一年半载的。如果可以，看看美国和新西兰吧，长期来讲省心一些
 品葱用户 magrabee 评论于 2020-03-09 A股跟美股关联度这么低，跌不跌都很难说的。这种仓位不需要担心吧</p>
             <a href="https://project-gutenberg.github.io/Pincong/post/80f7c1dadc82544768f44f3458fb186b/" class="btn btn-sm btn-outline-primary">read more</a>
-          </article>
-          
-          <article class="mb-5">
-            <h2 class="h4"><a class="text-dark" href="https://project-gutenberg.github.io/Pincong/post/68e203b83d86f6b9375b9b1d929da8c9/">所谓“国医”</a></h2>
-            <div class="mb-3"><span>by <a href="../../../Pincong/author/%e5%82%85%e6%96%af%e5%b9%b4">傅斯年</a></span>,
-              <span>at 08 March 2020</span>, category :
-              
-            </div>
-            <p>读到傅斯年当年的两篇文章，第一篇是评论国医的，第二篇是与批评他的人正面对线的，很有意思，颇有收获，也分享给你。
-以下内容分别载于 1934 年 8 月 5 日的《大公报》，以及 1934 年 8 月 26 日、9 月 16 日的《独立评论》。也就是说，是 86 年前的文字了。
-傅斯年，山东聊城人，五四运动学生领袖之一，国立北京大学代理校长、国立台湾大学校长。
-本文未经授权，根据公开史料整理。（根据《著作权法》规定，著作权的保护期为作者去世后 50 年。）
-刘飞
-1 所谓“国医”
-中国现在最可耻、最可恨、最可使人断气的事……是所谓西医，中医之争。
-日本的侵略不得了，如我们有决心，有准备，加以极大之努力，而且善于利用局势，日本总有受教训之一日。
-只有中医、西医之争，真把中国人的劣根性暴露得无所不至！以开了四十年学校的结果，中医还成问题！受了新式教育的人，还在那里听中医的五行、六气等等胡说！自命为提倡近代化的人，还在那里以政治的或社会的力量作中医的护法者！这岂不是明显表示中国人的脑筋仿佛根本有问题？
-对于自己的身体与性命，还没有明了的见解与信心，何况其他。
-对于关系国民生命的大问题还在那里妄逞意气，不分是非，何况其他。
-对于极容易分辨的科学常识还在混沌的状态中，何况较繁复的事。到今天还在那里争着中医、西医，岂不使全世界人觉得中国人另是人类之一种！
-办了四十年学校不能脱离这 个中世纪的阶段，岂不使人觉得教育的前途仍是枉然！
-中国人到了现在还信所谓中医者，大致有几个原因。最可恕的是爱国心，可 惜用的地方大错了。
-人们每每重视本地或本国对于一种学问或艺术之贡献，这本是一件普通的事，而且在略有节制的范围内，也是一件好事。因为这样才可以激励出其土、其国更多的贡献来。
-不过所谓中医并非纯粹的汉土产品，这类的方技在唐时颇受印度及中亚的影响，在宋、元更受阿拉伯人的影响。中医本来即无病理，又缺诊断，无非是一部“经验良方”。
-这些经验良方不是一处来的。这类考据，此地无法谈，我只提醒一句，其实 医学在现在并无所谓国界，虽德国、法国、英国、美国的风气各有小小不同，在基础上全无半点分别，这不是论诗宗、评画派一流的事。
-第二个原因是头脑不清楚。对于一切东西皆不深信，也皆不信，人云亦云，生病请医生全是试试看，恰如乡下老太婆生了病时拜一切神佛一般。
-这全是以做梦的状态对付死生的大事。 第三个原因是教育不好的结果。中国的教育中没有给人安置一个坚实的科学常识训练，故受此教育者后来糊涂如此。
-我以为目下政府及社会上人应该积极注意此事。想法子不再为所谓“国医” 丢国家民族的丑了。即如数月前设置所谓中医研究所之争，真是一件意气与无知 之充分表演，不图今日见此 11 世纪的恶剧。
-又如近时几个监察委员弹劾中央医院的事，真正是件大笑话，中央医院究竟杀人不杀人，须待有资格的医士检定，岂是几个在事外监察委员所能凭空断定的。以非技术的国家官吏去判断纯粹技术的问题，监察员坐在家中做了监察吏，这要比《洗冤录》所代表的文化还要退下几步。
-以政治的立点论，中国此时医学卫生的状态有下列几件事急须要做。</p>
-            <a href="https://project-gutenberg.github.io/Pincong/post/68e203b83d86f6b9375b9b1d929da8c9/" class="btn btn-sm btn-outline-primary">read more</a>
           </article>
           
           
