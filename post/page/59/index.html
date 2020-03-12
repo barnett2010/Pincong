@@ -31,7 +31,7 @@
   
   <meta name="og:title" content=" Posts ">
   <meta name="og:description" content=" 結局會怎樣我們不知道，但就肩並肩，說出你真實所見、所思、所想，對得起自己，一起見證歷史吧。">
-  <meta name="og:image" content="https://project-gutenberg.github.io/Pincong//images/card/40.jpg">
+  <meta name="og:image" content="https://project-gutenberg.github.io/Pincong//images/card/14.jpg">
   
 
 </head><body><!-- navigation -->
@@ -73,6 +73,42 @@
         <h2 class="mb-4">Posts are showing from <span class="text-primary">Posts</span> categories</h2>
         <div class="bg-white shadow block">
           
+          
+          <article class="mb-5">
+            <h2 class="h4"><a class="text-dark" href="https://project-gutenberg.github.io/Pincong/post/8d0dca6a9d25b01c4146a9a615fb6cb7/">免翻墙上品葱教程(DoH+ESNI直连)</a></h2>
+            <div class="mb-3"><span>by <a href="../../../Pincong/author/%e6%b2%89%e9%bb%98%e7%9a%84%e5%b9%bf%e5%9c%ba">沉默的广场</a></span>,
+              <span>at 26 February 2020</span>, category :
+              
+            </div>
+            <p>安全提示：本文介绍的方法只作为临时手段。如果打算长期活动，一定要挂代理。如果要从事高风险活动，请使用VPN+Tor。
+截至2020年初，防火墙封杀网站的手段有：
+ 关键词过滤：随着https的普及，这种方法已经不常见。 封锁IP：主要用来屏蔽Google，Facebook等IP地址固定的大型网站。 DNS污染+SNI探测：IPv4地址资源有限，对绝大多数网站，防火墙只能用DNS污染封锁。改Host可以绕过封锁，也可以用本文的DoH+ESNI方法直连被墙网站。   DoH+ESNI直连翻墙的稳定性非常高，DoH+ESNI可以看作是加密的DNS，和隐藏服务器名字的HTTPS。开启DoH+ESNI后，防火墙无法知道你在访问哪个网站，墙唯一知道的就是你的IP和你要访问的IP。
+品葱使用Cloudflare作安全防护，使用本文的方法直连品葱，防火墙只能检测到你在访问Cloudflare IP，没法知道你在访问品葱。而品葱本身不记录访客IP地址，除非品葱网站被渗透，不存在任何暴露IP的可能性。
+使用Cloudflare的网站（比如品葱），GFW只能封锁域名，无法彻底封杀IP地址。全世界有半数网站在使用Cloudflare，如果GFW一刀切封杀所有Cloudflare IP，相当于实行事实上的白名单。
+DoH是DNS over HTTPS的缩写，ESNI是Encrypted Server Name Indication（加密服务器名称指示）。进一步了解DoH和ESNI可以参考：
+维基百科：[服务器名称指示]( &ldquo;https://zh.wikipedia.org/zh-hans/%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%90%8D%E7%A7%B0%E6%8C%87%E7%A4%BA&quot;)
+维基百科：[DNS over HTTPS]( &ldquo;https://zh.wikipedia.org/wiki/DNS_over_HTTPS&quot;)
+SSPai：[想要上网体验有保障，如何设置一个更安全的 DNS？]( &ldquo;https://sspai.com/post/56783&quot;)（墙内网站）
+目前（2020年初）支持DoH+ESNI的浏览器只有Firefox，下面讲如何在Firefox上开启DoH和ESNI。
+下载火狐浏览器，注意不要用中国版火狐。用国产搜索引擎找Firefox会跳转到火狐中国版。
+Firefox官网下载（Mozilla基金会）
+[https://www.mozilla.org/zh-CN/firefox/new/]( &ldquo;https://www.mozilla.org/zh-CN/firefox/new/&quot;)
+直接下载链接（中文版，64位Windows）
+[https://download.mozilla.org/?product=firefox-msi-latest-ssl&amp;os=win64&amp;lang=zh-CN]( &ldquo;https://download.mozilla.org/?product=firefox-msi-latest-ssl&amp;os=win64&amp;lang=zh-CN&quot;)
+直接下载链接（中文版，64位macOS）
+[https://download.mozilla.org/?product=firefox-latest-ssl&amp;os=osx&amp;lang=zh-CN]( &ldquo;https://download.mozilla.org/?product=firefox-latest-ssl&amp;os=osx&amp;lang=zh-CN&quot;)
+【1】安装好Firefox后，点右上角的菜单按钮（画红圈处），在弹出菜单里点击【选项】。
+【2】在选项页面里向下拉到底，可以看见【网络设置】，点击【设置】按钮。
+【3】在弹出的【连接设置】页面里，继续拉到底，勾选【启用基于HTTPS的DNS】选项。下面默认的提供商应当是Cloudflare。
+到这里DoH就设置完成了，接下来设置ESNI。
+【4】在Firefox的地址栏里输入about:config，回车，如图
+【5】接下来可以看到警告提示，点【接受风险并继续】就可以。
+【6】在高级首选项里，在画红色方框的地方输入esni，如图
+【7】弹出的设置如下，默认情况下，“network.security.esni.enabled”选项为false。点一下红圈圈住的按钮，让这个选项变成“true”就可以了。设置好以后如下图
+【8】接下来就可以免翻墙上品葱了
+以上是电脑配置直连的方法，再说下手机端直连品葱的方法。</p>
+            <a href="https://project-gutenberg.github.io/Pincong/post/8d0dca6a9d25b01c4146a9a615fb6cb7/" class="btn btn-sm btn-outline-primary">read more</a>
+          </article>
           
           <article class="mb-5">
             <h2 class="h4"><a class="text-dark" href="https://project-gutenberg.github.io/Pincong/post/015715c7c46380681ef66202bd5c5e39/">共匪的疫情究竟有多不真实，大家可以谈谈感受吗？</a></h2>
@@ -338,28 +374,6 @@
 品葱用户 davidalpha 评论于 2020-02-27 区分很简单， 只要是能发出不同的声音，我就认为他不是大外宣！！！！
 品葱用户 蒙塔古 评论于 2020-02-26 看了一下，略有不解，感觉拍的比较刻意。不过如果真是洗地者那么未免太低级了洗的。先观察下。搜索背景如下:</p>
             <a href="https://project-gutenberg.github.io/Pincong/post/d04e014d9f7e03b1b43d51760f9c6abf/" class="btn btn-sm btn-outline-primary">read more</a>
-          </article>
-          
-          <article class="mb-5">
-            <h2 class="h4"><a class="text-dark" href="https://project-gutenberg.github.io/Pincong/post/5ef081998051704dd00da05f82139ca8/">廣州街頭噴「時代革命」，楊旭彬判刑9個月</a></h2>
-            <div class="mb-3"><span>by <a href="../../../Pincong/author/hker">Hker</a></span>,
-              <span>at 25 February 2020</span>, category :
-              
-            </div>
-            <p>楊旭彬於 去年8月24日及26日在廣洲小洲多處噴塗「自由」、「民主」、「獨立」、「普 選」、「時代革命」、「光復廣州」、「廣東獨立」等標語，於26日 當天被捕。案件已於2020年1月13日以視頻開庭，楊旭彬坦承該些標語為他所寫，法庭認為他這種行為構成尋釁滋事，判刑9個月，刑期至今年5月25日。
-楊旭彬生於1980年，廣東揭陽人，畢業於廣州美術學院，自由職業。楊旭彬被捕前在他的實名推特多次轉發香港反送中￼抗爭的消息，又在其YouTube上傳在香港拍攝的反送中抗爭影片。他在推特上的自我簡介為「為民主和自由而戰」，曾發帖稱「我們將站著死，也不跪著活」。
-品葱用户 魔鬼Sir 评论于 2020-02-25 向廣州勇武手足楊旭彬義士致敬！各位一齊集氣保佢平安，明面上話坐九個月牢，實際上肯定被桂支各種虐待。大家多留意他的消息，他的推特還在，大家可以去看看。
-品葱用户 Mrshithole 评论于 2020-02-25 被支共狗腿子拘留基本等於上了活摘名單，抽血化驗以後一旦有領導血型匹配必死無疑。如此殘暴變態的組織，品蔥還有一群人在給你們洗腦“他們不仁你不能不義，不然和共產黨有什麼區別”。
-@ fb_china_today 這麼著急點踩再折疊滅口，又是一個想用別人送人頭坐享其成的
-品葱用户 林郑月娥 评论于 2020-02-25 现实冲塔啊，虽然不可取，但表示尊重，希望平安。
-如果有人说他傻什么的，可以住嘴了，在网络上轻轻松松敲几个字的人是没有资格对一个在现实中冒着生命危险行动的人指指点点的。
-变革，是需要每一个人从身边做起，星星之火，可以燎原。
-品葱用户 Tashkent 评论于 2020-02-24 真正的勇士，為偉大的坎通尼亞愛國者獻上最誠摯的祝福
-品葱用户 hkfool 评论于 2020-02-25 这样就是9个月，品葱这么多不是可以用机枪了？
-品葱用户 Deatholder hkfool 评论于 2020-02-25  这样就是9个月，品葱这么多不是可以用机枪了？
- 那太浪费了，之前有个贴不说怎么处置政治犯吗
-品葱用户 学英语玩游戏 评论于 2020-02-25 真正的勇士敢于直面惨淡的人生，敢于正视淋漓的鲜血。</p>
-            <a href="https://project-gutenberg.github.io/Pincong/post/5ef081998051704dd00da05f82139ca8/" class="btn btn-sm btn-outline-primary">read more</a>
           </article>
           
           
