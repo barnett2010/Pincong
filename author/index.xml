@@ -6,9 +6,31 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>Copyright © 品葱精选</copyright>
-    <lastBuildDate>Thu, 12 Mar 2020 16:00:39 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2020 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://project-gutenberg.github.io/Pincong/author/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+    <item>
+      <title>davidalpha</title>
+      <link>https://project-gutenberg.github.io/Pincong/author/davidalpha/</link>
+      <pubDate>Fri, 13 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://project-gutenberg.github.io/Pincong/author/davidalpha/</guid>
+      <description></description>
+    </item>
+    
+    
+    
+    <item>
+      <title>约瑟夫习特勒</title>
+      <link>https://project-gutenberg.github.io/Pincong/author/%E7%BA%A6%E7%91%9F%E5%A4%AB%E4%B9%A0%E7%89%B9%E5%8B%92/</link>
+      <pubDate>Fri, 13 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://project-gutenberg.github.io/Pincong/author/%E7%BA%A6%E7%91%9F%E5%A4%AB%E4%B9%A0%E7%89%B9%E5%8B%92/</guid>
+      <description></description>
+    </item>
     
     
     
@@ -293,17 +315,6 @@
       <pubDate>Wed, 11 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>https://project-gutenberg.github.io/Pincong/author/%E7%9B%9B%E5%85%89%E7%A5%96/</guid>
-      <description></description>
-    </item>
-    
-    
-    
-    <item>
-      <title>约瑟夫习特勒</title>
-      <link>https://project-gutenberg.github.io/Pincong/author/%E7%BA%A6%E7%91%9F%E5%A4%AB%E4%B9%A0%E7%89%B9%E5%8B%92/</link>
-      <pubDate>Wed, 11 Mar 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://project-gutenberg.github.io/Pincong/author/%E7%BA%A6%E7%91%9F%E5%A4%AB%E4%B9%A0%E7%89%B9%E5%8B%92/</guid>
       <description></description>
     </item>
     
