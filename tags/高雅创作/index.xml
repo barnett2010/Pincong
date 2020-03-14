@@ -6,9 +6,27 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>Copyright © 品葱精选</copyright>
-    <lastBuildDate>Mon, 09 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Mar 2020 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://project-gutenberg.github.io/Pincong/tags/%E9%AB%98%E9%9B%85%E5%88%9B%E4%BD%9C/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+    <item>
+      <title>肉喇叭生成器家族再添新成员：胡锡进生成器</title>
+      <link>https://project-gutenberg.github.io/Pincong/post/6e83d6cee36a76bcb647a70e88bc3db8/</link>
+      <pubDate>Sat, 14 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://project-gutenberg.github.io/Pincong/post/6e83d6cee36a76bcb647a70e88bc3db8/</guid>
+      <description> 1/2匿名推油投稿他自个写的 胡编生成器(HuEditorGenerator)
+采用Python大法编写，哪位闲的可以html重写一个
+摘自Github readme
+本生成器仅供娱乐
+用于生产胡式评论，这样一有新事情发生，第一时间生成评论发布，可以马上抢占舆论高地，赢取伟大胜利。
+https://t.co/IODnUMytgf
+测试文章主题：胡编生成器
+就老胡个人来说, 胡编生成器对老胡的意义, 不能不说非常重大。 近期互联网上关于 …</description>
+    </item>
     
     
     
