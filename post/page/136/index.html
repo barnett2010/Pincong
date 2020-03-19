@@ -31,7 +31,7 @@
   
   <meta name="og:title" content=" Posts ">
   <meta name="og:description" content=" 結局會怎樣我們不知道，但就肩並肩，說出你真實所見、所思、所想，對得起自己，一起見證歷史吧。">
-  <meta name="og:image" content="https://project-gutenberg.github.io/Pincong//images/card/55.jpg">
+  <meta name="og:image" content="https://project-gutenberg.github.io/Pincong//images/card/49.jpg">
   
 
 </head><body><!-- navigation -->
@@ -242,6 +242,36 @@ https://t.me/s/pincongonline
           </article>
           
           <article class="mb-5">
+            <h2 class="h4"><a class="text-dark" href="https://project-gutenberg.github.io/Pincong/post/559f3448014afbb8c08ec0c19903b246/">我闲着没事爬了一下胡锡进的推特账号（更新3：胡总生活习惯讨论）</a></h2>
+            <div class="mb-3"><span>by <a href="../../../Pincong/author/anarch1st">Anarch1st</a></span>,
+              <span>at 21 November 2019</span>, category :
+              
+            </div>
+            <p>对，我确实闲着没事。
+胡主编在twitter十分活跃，其实我没有关注他，但每天都能看到别人转发或者reply他的信息。我进去瞄了一眼他的账号，1500多tweet，于是我决定爬一爬分析一下图个乐呵。
+爬虫：tweepy
+目标账号：@HuXijin_GT （胡锡进的英语twitter账号）
+爬取结果：1505条记录（去重后，共1496条tweet），时间跨度：2014-08-29 （胡主编twitter玩的挺早）到 2019-11-19
+结果和分析：
+推特频率时间线（以月为单位）
+从上图中我们明显看到胡总编最近这段时间加强了外宣工作（嘻嘻）。x轴代表时间（月），y轴代表tweet数量。
+**
+情感分析（sentiment analysis）**
+
+图1 表示胡主编所有tweet的情感分析，NEG=NEGATIVE 消极（负面）情感, POS=POSITIVE 积极（正面）情感。
+x轴有5个单位 None表示无情感，Slight表示有轻微情感，Moderate表示有中度情感，Strong表示有强烈情感，V.Strong表示有特别强烈的情感。y轴是tweets条目总数（因为一条tweet里面可能会包含既正面又负面的情感，e.g. I like apple but I hate banana. 所以所有的条目总数加起来一定大于collected dataset）。
+所以重点是从slight以后越来越强烈的情感，none的bar自动忽略。
+根据统计结果推测：胡主编在推特上面，总体而言负面情绪强烈压制正面情绪。（一点都不正能量）
+六月以来的情感分析图
+
+图3很垃圾，但是我懒得把它弄好看点了
+x axis = date.
+y axis = value = sentiment score.
+这张图是胡主编2019年6月以来的sentiment line chart，亮点是在近半年的时间里面，胡主编的强烈positive tweet屈指可数 （value = 4）。自从六月以来，看来胡主编受了不少气吧。lol</p>
+            <a href="https://project-gutenberg.github.io/Pincong/post/559f3448014afbb8c08ec0c19903b246/" class="btn btn-sm btn-outline-primary">read more</a>
+          </article>
+          
+          <article class="mb-5">
             <h2 class="h4"><a class="text-dark" href="https://project-gutenberg.github.io/Pincong/post/c8ce8921688c38617779aa47cef1cbd7/">知乎是否完全成了洗脑工具？</a></h2>
             <div class="mb-3"><span>by <a href="../../../Pincong/author/getout">Getout</a></span>,
               <span>at 21 November 2019</span>, category :
@@ -332,38 +362,6 @@ HK6月份就开始了，到现在很难收拾，朋友问我的时候就说“�
 直到幾天前在YouTube看一個港人個人頻道「影像補完計畫」的節目，介紹有內地大學生支持香港人，才發現品蔥這裡，找到同溫層多少讓我感動不再孤單！
 品葱用户 Ayase_Miya 评论于 2019-11-18 我跟同宿舍的闹进过局子你敢信。。。 他动手打了我我报的警</p>
             <a href="https://project-gutenberg.github.io/Pincong/post/1953c9ae00899b910b4653b007cdfc1b/" class="btn btn-sm btn-outline-primary">read more</a>
-          </article>
-          
-          <article class="mb-5">
-            <h2 class="h4"><a class="text-dark" href="https://project-gutenberg.github.io/Pincong/post/216172573218433addca61bc2476e8d1/">如何成立一个基于匿名方式投票的网络民选政府？</a></h2>
-            <div class="mb-3"><span>by <a href="../../../Pincong/author/%e7%b7%a8%e7%a8%8b%e9%9a%a8%e6%83%b3">編程隨想</a></span>,
-              <span>at 19 November 2019</span>, category :
-              
-            </div>
-            <p>几年前，俺就在博客里讨论过，基于类Quora/知乎问答投票社区，由匿名公民选举成立一个线上民选政府的设想。
-本文较长，不喜看长文的读者可只看 ★前言 和 文章末尾的 ★ 释疑问答 即可。
-★前言
-大陆的维权、异议、民主运动之所以失败。一大原因在于： 朝廷利用无所不在的监控，将抗争群体原子化，分而治之。
-只要你在现实中举行维权、异议、民主运动。轻则被拘留，生活处处受阻；重则心理，生理被折磨，牢狱之灾，家人连坐；终极肉体人身消灭，名誉上被搞臭，永世不得翻身。
-现实中，在大陆越维权，越搞民主运动，反贼越少，火种逐渐被扑灭。
-零八宪章的众多参与者，特别是刘晓波，俺非常敬佩。但不得不理性（甚至有点残酷）地说，这是一个从一开始就注定失败的运动。
-企图行改良主义，希冀反人类及杀戮无数者主动放下屠刀，立地成佛无异与虎谋皮，痴人说梦。
-因八九六四屠杀后，天朝丧失了最后一次和平民主转型的机会，朝廷背负血债太多，断无可能。
-海外华人的民主运动，虽则解决了大陆民主运动的Bug，致命之处在于脱离群众。只能自说自话，小打小闹，朝廷根本不放在眼里。
-匿名投票选举建立网络民选政府的设想，综合了大陆群众运动和海外民运的优劣，试图解决两者的缺点，取两者之长(诸多优点见下文)。
-紧密结合大陆反贼的同时，反贼不会被消灭，风险降低，可以令更多的沉默者有勇气参与。
-大部分沉默者可能没有勇气，上街举个民主的牌子，因为可能没出门半步就被拉清单。但在网上匿名投下，选举华人总统与议员的票，那是大大滴胆子都有。
-议会保持匿名运行的同时，在大陆无家人与利益的华人总统在海外，怎么蹦达都可以。毕竟如今在海外也有不少华人，公开为民主呐喊与彷徨。参与选举并作为线上版华人总统，海外参与活动，不致增加太多额外的风险。
-【紧密联系群众，农村包围城市】是毛腊肉留下的战略精髓，腊肉虽臭，策略还是不错滴。不过这里的&rdquo;农村&rdquo; 是线上匿名与海外线下活动结合，“城市”是大陆。
-其实质是【间接路线战略】的核心体现，俺等反贼当灵活用之。
-俺把这部分内容抽出来，放在第2个帖子中： 《如何成立一个基于匿名方式投票的网络民选政府？（第二部分）》
-★ 释疑问答
-诸位肯定有诸多问题，俺先自问自答解答部分疑问。
-1. 问： 品葱注册实行匿名制，如何保证一人一票？
-答： 参考现实登记投票制 &amp; 技术问题用技术解决。
-例
-. 威望 大于N (如N = 1) 或点赞数 大于M (如 M = 5)的用户自动获投票权；</p>
-            <a href="https://project-gutenberg.github.io/Pincong/post/216172573218433addca61bc2476e8d1/" class="btn btn-sm btn-outline-primary">read more</a>
           </article>
           
           

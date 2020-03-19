@@ -20137,6 +20137,22 @@ https://pincong.rocks/article/9468
     
     
     <item>
+      <title>我闲着没事爬了一下胡锡进的推特账号（更新3：胡总生活习惯讨论）</title>
+      <link>https://project-gutenberg.github.io/Pincong/post/559f3448014afbb8c08ec0c19903b246/</link>
+      <pubDate>Thu, 21 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://project-gutenberg.github.io/Pincong/post/559f3448014afbb8c08ec0c19903b246/</guid>
+      <description>对，我确实闲着没事。
+胡主编在twitter十分活跃，其实我没有关注他，但每天都能看到别人转发或者reply他的信息。我进去瞄了一眼他的账号，1500多tweet，于是我决定爬一爬分析一下图个乐呵。
+爬虫：tweepy
+目标账号：@HuXijin_GT （胡锡进的英语twitter账号）
+爬取结果：1505条记录（去重后，共1496条tweet），时间跨度：2014-08-29 （胡主编twitter玩的挺早）到 2019-11-19
+ …</description>
+    </item>
+    
+    
+    
+    <item>
       <title>知乎是否完全成了洗脑工具？</title>
       <link>https://project-gutenberg.github.io/Pincong/post/c8ce8921688c38617779aa47cef1cbd7/</link>
       <pubDate>Thu, 21 Nov 2019 00:00:00 +0000</pubDate>
